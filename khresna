@@ -1,0 +1,19 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+
+    string a ;
+    int b ;
+
+    cout << "masukkan nama : "; cin >> a;
+
+    cout << "masukkan kelas : ";cin >> b;
+
+    cout << "i am " << a << "  from class " << b <<endl;
+
+         return 0;
+
+}
